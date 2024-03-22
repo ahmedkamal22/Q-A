@@ -1,6 +1,6 @@
 # quiz_app
 
-Q & A App.
+Q & A .
 
 ## Getting Started
 
