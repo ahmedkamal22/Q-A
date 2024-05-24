@@ -1,16 +1,15 @@
-# quiz_app
+**Q & A App**
+This is a Flutter application for managing and displaying different questions in a quiz format.
+The app allows users to navigate through questions, select answers, and receive feedback.
 
-Q & A .
+**Features**
 
-## Getting Started
+**Questions Management**: The questions changing every time.
 
-This project is a starting point for a Flutter application.
+**Answer Selection**: Choose from multiple-choice answers.
 
-A few resources to get you started if this is your first Flutter project:
+**Feedback System**: Immediate feedback on selected answers.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Score Tracking**: Keep track of the score based on correct answers.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**User Interface**: Simple and intuitive UI for easy navigation.
